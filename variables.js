@@ -3,3 +3,5 @@ var city = "Colorado Springs";
 var state = "Colorado"
 var zip = 80918
 var areaCode = 719
+var male = true
+var tall = false
